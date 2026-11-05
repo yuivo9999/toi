@@ -106,7 +106,7 @@ android {
 }
 
 ksp {
-    arg("room.generateKotlin", "true")
+    arg("room.generateKotlin", "false")
     // exportSchema=true 后，每个数据库版本的结构会导出到 app/schemas/，请提交进版本库
     arg("room.schemaLocation", "$projectDir/schemas")
 }
