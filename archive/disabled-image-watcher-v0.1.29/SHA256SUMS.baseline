@@ -1,0 +1,3 @@
+ab9d7546c2a0d56ba2e1863963637408b3edc77b3e7a4c18baf164eaed9b0630  app/src/main/java/com/toimg/app/core/util/NewImageWatcher.kt
+b01244bc273468539befd06fea95c734167100f52947cd6e5b51a1d1063756d5  app/src/main/java/com/toimg/app/core/work/NewImageWatchWorker.kt
+ff13546e34f0ba8262c46de0a92267d45865c920a037ce4ba6916eb28ba481ad  app/src/main/java/com/toimg/app/core/util/NewImageIngestor.kt

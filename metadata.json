@@ -1,0 +1,10 @@
+{
+  "name": "ToImg",
+  "description": "Android AI picture recognition and organization tool framework (v0.1.30)",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ],
+  "version": "0.1.30",
+  "versionCode": 28
+}

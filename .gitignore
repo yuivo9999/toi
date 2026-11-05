@@ -1,0 +1,23 @@
+# Gradle build output and caches
+*.iml
+.gradle
+/build
+/app/build
+/captures
+
+# Local configuration files
+local.properties
+.env
+keystore.properties
+
+# Android Studio / IntelliJ IDEA
+.idea
+.DS_Store
+
+# Signing secrets
+keystore.properties
+*.jks
+!/release-ci.keystore
+
+# Build outputs
+.build-outputs/
